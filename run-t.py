@@ -67,10 +67,10 @@ def run_bot(data_account, recover=1):
     try:
 
         nama_modif = kw.replace(" ", "-")
-        gmail = f"{nama_modif}-Unblocked-Gamess-{random_string(6)}@gmail.com"
-        slug = f"{nama_modif}-Unblocked-Games-Premium-Play-Free-Online-{random_string(6)}"
-        judul = f"{kw} Unblocked Games Premium Play Free Online"
-        link = f"https://freeplayer.one/?title= CLICK HERE >> {kw}?ref=BU"
+        gmail = f"{nama_modif}-viral-vidioo-{random_string(6)}@gmail.com"
+        slug = f"{nama_modif}-onlyfans-videos-viral-on-x-ox-{random_string(6)}"
+        judul = f"{kw} Onlyfan VIRAL Leaked VIDEO TELEGRAM LINK XXX"
+        link = f"https://apps.freeplayer.one/?title= CLICK HERE >> {kw}?ref=B1"
 
         driver.get("https://bento.me/signup?ref=techcrunch&app=wetransferflow&atb=true")
         time.sleep(3)
@@ -125,7 +125,7 @@ def run_bot(data_account, recover=1):
         print(driver.current_url)
         
         try:
-            konten = f'{kw} Unblocked Games Premium Play Free Online.. \n'
+            konten = f'{kw} Leaked Video Original Video Viral Video Leaked on X Twitter Telegram \n [-FULL-]— {kw} ʟᴇᴀᴋᴇᴅ Video ᴠɪʀᴀʟ On Social Media Twitter \n Leaked Video {kw} Original Video Viral Video Leaked on X Twitter.. \n'
             driver.find_element(
                 By.XPATH,
                 "/html/body/div[2]/div[1]/div/div/div[2]/div[2]/div/div/div",
