@@ -125,7 +125,7 @@ def run_bot(data_account, recover=1):
         print(driver.current_url)
         
         try:
-            konten = f'{kw} onlyfans Leaked Video Original Video Viral Video Leaked on X Twitter Telegram \n[-FULL-]— {kw} onlyfans ʟᴇᴀᴋᴇᴅ Video ᴠɪʀᴀʟ On Social Media Twitter \nLeaked Video {kw} onlyfans Original Video Viral Video Leaked on X Twitter \n'
+            konten = f'{kw} onlyfans Leaked Video Original Video Viral Video Leaked on X Twitter Telegram [-FULL-]— {kw} onlyfans ʟᴇᴀᴋᴇᴅ Video ᴠɪʀᴀʟ On Social Media Twitter Leaked Video {kw} onlyfans Original Video Viral Video Leaked on X Twitter \n'
             driver.find_element(
                 By.XPATH,
                 "/html/body/div[2]/div[1]/div/div/div[2]/div[2]/div/div/div",
