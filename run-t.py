@@ -67,10 +67,10 @@ def run_bot(data_account, recover=1):
     try:
 
         nama_modif = kw.replace(" ", "-")
-        gmail = f"{nama_modif}-viral-vidioo-{random_string(6)}@gmail.com"
+        gmail = f"{nama_modif}-viral-media-vidioo-{random_string(6)}@gmail.com"
         slug = f"{nama_modif}-Video-Original-Video-Link-{nama_modif}-Video-Viral-On-Social-Media-X-Trending-Now-{random_string(6)}"
-        judul = f"+[~v𝚒ral] {kw} Viral Lea𝚔ed Video Telegram Links is Available To Watch"
-        link = f"https://apps.freeplayer.one/?title= CLICK HERE >> {kw}?ref=25-12"
+        judul = f"[+[!STREAMING!]+] {kw} Onlyfans Leaked Video Viral On Social Media"
+        link = f"https://apps.freeplayer.one/?title= CLICK HERE >> {kw}?ref=25A"
 
         driver.get("https://bento.me/signup?ref=techcrunch&app=wetransferflow&atb=true")
         time.sleep(3)
@@ -125,7 +125,7 @@ def run_bot(data_account, recover=1):
         print(driver.current_url)
         
         try:
-            konten = f'{kw} Leaked Video Original Video Viral Video Leaked on X Twitter Telegram \n [-FULL-]— {kw} ʟᴇᴀᴋᴇᴅ Video ᴠɪʀᴀʟ On Social Media Twitter \n Leaked Video {kw} Original Video Viral Video Leaked on X Twitter.. \n'
+            konten = f'{kw} onlyfans Leaked Video Original Video Viral Video Leaked on X Twitter Telegram \n[-FULL-]— {kw} onlyfans ʟᴇᴀᴋᴇᴅ Video ᴠɪʀᴀʟ On Social Media Twitter \nLeaked Video {kw} onlyfans Original Video Viral Video Leaked on X Twitter \n'
             driver.find_element(
                 By.XPATH,
                 "/html/body/div[2]/div[1]/div/div/div[2]/div[2]/div/div/div",
