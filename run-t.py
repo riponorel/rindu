@@ -70,7 +70,7 @@ def run_bot(data_account, recover=1):
         gmail = f"{nama_modif}-viral-vidioo-{random_string(6)}@gmail.com"
         slug = f"{nama_modif}-Onlyfans-Leaked-Video-Viral-On-Social-Media-{random_string(6)}"
         judul = f"[+[!STREAMING!]+] {kw} Onlyfans Leaked Video Viral On Social Media"
-        link = f"https://apps.freeplayer.one/?title= CLICK HERE >> {kw}?ref=25-1"
+        link = f"https://apps.freeplayer.one/?title= CLICK HERE >> {kw}?ref=25-2"
 
         driver.get("https://bento.me/signup?ref=techcrunch&app=wetransferflow&atb=true")
         time.sleep(3)
