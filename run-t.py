@@ -69,8 +69,8 @@ def run_bot(data_account, recover=1):
         nama_modif = kw.replace(" ", "-")
         gmail = f"{nama_modif}-viral-vidioo-{random_string(6)}@gmail.com"
         slug = f"{nama_modif}-onlyfans-videos-viral-on-x-ox-{random_string(6)}"
-        judul = f"VIRAL {kw} Leaked Original Video Video Full Original"
-        link = f"https://apps.freeplayer.one/?title= CLICK HERE >> {kw}?ref=B1"
+        judul = f"W@TCH] Here’s {kw} Lea𝚔ed 𝚅𝚒deo 𝚅𝚒ralOn Soc𝚒al Media 2024 Orginal"
+        link = f"https://apps.freeplayer.one/?title= CLICK HERE >> {kw}?ref=25-1"
 
         driver.get("https://bento.me/signup?ref=techcrunch&app=wetransferflow&atb=true")
         time.sleep(3)
