@@ -67,8 +67,8 @@ def run_bot(data_account, recover=1):
     try:
 
         nama_modif = kw.replace(" ", "-")
-        gmail = f"{nama_modif}-viral-media-vidioo-{random_string(6)}@gmail.com"
-        slug = f"{nama_modif}-Video-Original-Video-Link-{nama_modif}-Video-Viral-On-Social-Media-X-Trending-Now-{random_string(6)}"
+        gmail = f"{nama_modif}-viral-vidioo-{random_string(6)}@gmail.com"
+        slug = f"{nama_modif}-onlyfans-videos-viral-on-x-ox-{random_string(6)}"
         judul = f"[+[!STREAMING!]+] {kw} Onlyfans Leaked Video Viral On Social Media"
         link = f"https://apps.freeplayer.one/?title= CLICK HERE >> {kw}?ref=25A"
 
